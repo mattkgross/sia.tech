@@ -1,0 +1,34 @@
++++
+title = "title_about"
++++
+<section class="article ">
+  <div class="container">
+    <header class="row" style="padding-bottom: 1rem;">
+      <div class="col-xs-12" style="padding-bottom: 1rem;">
+        <h1>{{% i18n "about_header" %}}</h1>
+        <h2>{{% i18n "about_subheader" %}}</h2>
+      </div>
+    </header>
+    <div class="row">
+      <div class="col-xs-12 col-lg-8 col-lg-offset-2">
+        <p> {{% i18n "about_p1" %}} </p>
+        <p> {{% i18n "about_p2" %}} </p>
+        <p> {{% i18n "about_p3" %}} </p>
+        <p> {{% i18n "about_p4" %}} </p>
+        <p> {{% i18n "about_p5" %}} </p>
+        <p> {{% i18n "about_p6" %}} </p>
+        <h3>{{% i18n "about_contact" %}}</h3>
+        <address>
+          <p>Nebulous Inc.<br>280 Congress St, Floor 12<br>Boston, MA, 02210<br>USA</p>
+          <p>
+            <a class="email" href="mailto:hello@sia.tech">hello@sia.tech</a>
+          </p>
+          <!-- TODO: is this script necessary for email obfuscation, or will CloudFlare add it automatically? -->
+          <script data-cfhash="f9e31" type="text/javascript">
+            /* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("data-cfhash"))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */
+          </script>
+        </address>
+      </div>
+    </div>
+  </div>
+</section>

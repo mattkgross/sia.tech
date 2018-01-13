@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-LANGS=( "ha" "de" "fr" "ru" "zh-hans" "zh-hant" )
+LANGS=( "ha" "de" "fr" "ru" "zh-hans" "zh-hant" "es" )
 
 for oldfile in $(find ./content -name '*.*.html')
 do

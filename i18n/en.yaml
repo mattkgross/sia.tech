@@ -13,6 +13,8 @@
   translation: "Deutsch"
 - id: ha
   translation: "עברית"
+- id: es
+  translation: "Español"
 
 # Titles
 - id: title_lts

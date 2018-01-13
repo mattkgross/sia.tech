@@ -1,0 +1,541 @@
+# Language names TODO: find a better way to do this.
+- id: en
+  translation: "English"
+- id: fr
+  translation: "Français"
+- id: ru
+  translation: "Русский"
+- id: zh-hans
+  translation: "中文"
+- id: zh-hant
+  translation: "繁體中文"
+- id: de
+  translation: "Deutsch"
+- id: ha
+  translation: "עברית"
+- id: es
+  translation: "Español"
+
+# Titles
+- id: title_lts
+  translation: "Descargar LTS"
+
+- id: title_about
+  translation: "Acerca de"
+
+- id: title_apps
+  translation: "Descargar"
+
+- id: title_faq
+  translation: "FAQ" # TODO: i18n: translate this
+
+- id: title_getsiacoin
+  translation: "Obtener Siacoin"
+
+- id: title_getstarted
+  translation: "Empezar"
+
+- id: title_roadmap
+  translation: "Hoja de Ruta"
+
+- id: title_support
+  translation: "Base de Conocimientos"
+
+
+# Partials
+### header ###
+- id: header_community
+  translation: "Comunidad"
+
+- id: header_getsiacoin
+  translation: "OBTENER SIACOIN"
+
+### discover ###
+- id: discover_header
+  translation: "Descubrir más"
+
+- id: discover_whitepaper
+  translation: "Informe Técnico"
+
+- id: discover_blog
+  translation: "Blog"
+
+- id: discover_explorer
+  translation: "Explorador de Cadena de Bloques"
+
+- id: discover_devdocs
+  translation: "Documentos Para Desarrolladores"
+
+### footer ###
+- id: footer_navheader
+  translation: "¿Qué es Sia?"
+
+- id: footer_moreheader
+  translation: "Más sobre Sia"
+
+- id: footer_docs
+  translation: "Documentos"
+
+- id: footer_blog
+  translation: "Blog"
+
+- id: footer_forum
+  translation: "Foro"
+
+- id: footer_siatalk
+  translation: "#siatalk en irc.freenode.net"
+
+- id: footer_backedby
+  translation: "está apollado por"
+
+- id: footer_questions
+  translation: "¿Preguntas sobre Sia? ¡Contáctenos!"
+
+- id: footer_contact
+  translation: "Contacto"
+
+- id: footer_like
+  translation: "Me gusta"
+
+- id: footer_follow
+  translation: "Seguir"
+
+
+# URL: /index.html
+### big header ###
+- id: index_bigheader1
+  translation: "Su back-end nube<span class=\"title-highlight\">descentralizada</span>"
+
+- id: index_subtitle
+  translation: "Bienvenido a una nueva era de almacenamiento en la nube en la cadena de bloques"
+
+- id: index_getstartedbtn
+  translation: "Empezar"
+
+- id: index_watchvideobtn
+  translation: "Mirar Video"
+
+### info section ###
+- id: index_info1_title
+  translation: "Completamente privado"
+
+- id: index_info1_content
+  translation: "Sia divide, encripta y distribuye sus archivos a través de una red descentralizada. Como tiene las llaves, usted es el propietario de sus datos. Ninguna compañía externa puede acceder o controlar sus archivos, a diferencia de los proveedores tradicionales de almacenamiento en la nube."
+
+- id: index_info2_title
+  translation: "Mucho más asequible"
+
+- id: index_info2_content
+  translation: "La nube descentralizada de Sia es en promedio 10 veces menos costosa que los proveedores actuales de almacenamiento en la nube. El almacenamiento de 1 TB en Sia cuesta alrededor de $2 por mes, en comparación con $23 en Amazon S3. ¡Calcule sus ahorros debajo!"
+
+- id: index_info3_title
+  translation: "Altamente redundante"
+
+- id: index_info3_content
+  translation: "Sia almacena pequeños trozos de sus archivos en docenas de nodos en todo el mundo. Esto elimina cualquier punto único de falla y garantiza la mejor disponibilidad posible, a la par con otros proveedores de almacenamiento en la nube."
+
+- id: index_info4_title
+  translation: "Código abierto"
+
+- id: index_info4_content
+  translation: "Sia es totalmente código abierto. Más de una docena de personas han contribuido al software de Sia, y hay una comunidad activa que desarrolla aplicaciones innovadoras que utilizan la API de Sia."
+
+- id: index_info5_title
+  translation: "Mercado en la cadena de bloques"
+
+- id: index_info5_content
+  translation: "Utilizando la cadena de bloques de Sia, Sia crea un mercado de almacenamiento descentralizado en el que los ordenadores de gestión compiten por su negocio – lo que lleva a los precios más bajos posibles. Los inquilinos pagan con Siacoin, que también puede minarse e intercambiarse."
+
+### calculation section ###
+- id: index_calculationheader
+  translation: "Calcule sus ahorros"
+
+- id: index_calculationamount
+  translation: "¿Cuántos TB?"
+
+- id: index_calculationprovider
+  translation: "Proveedor de Almacenamiento"
+
+- id: index_calculationcost
+  translation: "Costo de Almacenamiento Mensual"
+
+- id: index_calculationbwcost
+  translation: "Costo de Ancho de Banda para Descargas"
+
+- id: index_calculationprivate
+  translation: "Privado"
+
+- id: index_calculationdecentralized
+  translation: "Descentralizado"
+
+- id: index_calculationredundancy
+  translation: "Redundancia Incluida de Múltiples Regiones"
+
+### transform your cloud section ###
+- id: index_transformcloudheader
+  translation: "¿Listo para transformar su nube?"
+
+- id: index_transformcloudgetstarted
+  translation: "Empezar"
+
+- id: index_transformcloudcontact
+  translation: "Contactar"
+
+- id: index_transformcloudwiki
+  translation: "Wiki"
+
+### mailing list ###
+- id: index_mailbutton
+  translation: "Registrarse para noticias"
+
+- id: index_emailform
+  translation: "Correo electrónico"
+
+
+# URL: /about/index.html
+### header ###
+- id: about_header
+  translation: "Acerca de Nosotros"
+
+- id: about_subheader
+  translation: "Nuestra Misión"
+
+### paragraphs ###
+- id: about_p1
+  translation: "La idea de Sia se concibió originalmente en HackMIT 2013. ¿Qué pasaría si pudieras liberar el espacio de almacenamiento no utilizado del mundo y unirlo en un mercado libre mundial de datos?"
+
+- id: about_p2
+  translation: "Sia aprovecha la capacidad de la tecnología de cadena de bloques para permitir que las redes distribuidas alcancen un consenso de una manera segura y sin confianza. Los contratos inteligentes asegurados criptográficamente aseguran el cifrado y la transferencia de datos sin posibilidad de que un tercero interfiera de ninguna manera."
+
+- id: about_p3
+  translation: "Sia es un nuevo enfoque para las plataformas de almacenamiento en la nube. En lugar de que todos los centros de datos pertenezcan y sean operados por una empresa única, Sia abre las compuertas y permite que cualquier persona gane dinero alquilando su disco duro. La integridad de los datos está protegida mediante redundancia y criptografía."
+
+- id: about_p4
+  translation: "La promesa de Sia es una red descentralizada de centros de datos que, en conjunto, comprenden la plataforma de almacenamiento en la nube más rápida, barata, y segura del mundo. Hoy, siendo un importante proveedor de almacenamiento en la nube requiere tener centros de datos, generar confianza en el mercado, llegar a los clientes y competir con gigantes como Amazon, Google, y Microsoft."
+
+- id: about_p5
+  translation: "Entrando en este mercado es un esfuerzo multimillonario. La meta a largo plazo de Sia es ser la capa de almacenamiento principal del Internet."
+
+- id: about_p6
+  translation: "Creemos que los datos deben ser gratuitos. Nuestro objetivo es liberar las partes no utilizadas del mundo y construir el super servidor de almacenamiento más grande del planeta."
+
+### contact ###
+- id: about_contact
+  translation: "Contacto"
+
+
+# URL: /about/milestones.html
+### header ###
+- id: milestones_header
+  translation: "Hoja de Ruta"
+
+- id: milestones_subheader
+  translation: "HITOS Y METAS"
+
+### milestones ###
+- id: milestones_idea
+  translation: "Octubre 2013: Idea"
+
+- id: milestones_angel
+  translation: "Junio 2014: Inversión Informal"
+
+- id: milestones_whitepaper
+  translation: "Noviembre 2014: Informe Técnico"
+
+- id: milestones_launch
+  translation: "Junio 2015: Se Lanzó La Red Sia"
+
+- id: milestones_v1
+  translation: "Junio 2016: Sia Versión 1"
+
+- id: milestones_exchanges
+  translation: "Julio 2016: Sia listado por Poloniex, YUNBI, Bitsquare, y ShapeShift"
+
+- id: milestones_funding2016
+  translation: "Agosto 2016: Nebulous Recaudó $750k para Sia"
+
+- id: milestones_speedboost
+  translation: "Enero 2017: Aumento en Velocidad de Subida/Descargada"
+
+- id: milestones_instantunlock
+  translation: "Desbloqueo Instantáneo de Billetera"
+
+- id: milestones_hostautopricing
+  translation: "Precios de Host Automáticos"
+
+- id: milestones_seedrecovery
+  translation: "Seed-Based File Recovery" # TODO: i18n: translate this
+
+- id: milestones_filesharing
+  translation: "Compartición de Archivos"
+
+
+# URL: /lts.html
+- id: lts_explanation1
+  translation: "Sia tiene una línea especial de lanzamientos llamados Lanzamientos de Soporte a Largo Plazo (LTS). Los lanzamientos de LTS más notablemente no incluyen nuevas características hasta que esas características hayan estado en producción durante mucho tiempo sin revelar ningún error nuevo o inesperado. Esto significa que las características importantes (como el desbloqueo instantáneo de la billetera) no se convierten en un lanzamiento LTS hasta varios meses después de su lanzamiento al público en general."
+
+- id: lts_explanation2
+  translation: "Todas los lanzamientos de Sia se prueban exhaustivamente. Sin embargo, la realidad es que se propagan los errores a producción. Nuestro meta es que ninguno de nuestros lanzamientos tenga errores, pero hasta que podamos lograr esa meta consistentemente, proporcionamos los lanzamientos LTS de actualización más lenta para usuarios y desarrolladores que requieren estabilidad. A menos que la estabilidad sea crítica, recomendamos utilizar nuestros <a href=\"../apps\">lanzamientos de producción</a>, que generalmente son más rápidos, más fáciles de usar, y más completos."
+
+# URL: /apps/index.html
+### header ###
+- id: apps_ltsheader
+  translation: "¿Utiliza a Sia profesionalmente? Mira nuestro "
+
+- id: apps_ltslinktext
+  translation: "lanzamientos LTS."
+
+- id: apps_uiheader
+  translation: "Sia-UI"
+
+- id: apps_uiheaderlts
+  translation: "Sia-UI (LTS)"
+
+- id: apps_uisubheader
+  translation: "Para usuarios"
+
+- id: apps_daemonheader
+  translation: "Demonio Sia"
+
+- id: apps_daemonheaderlts
+  translation: "Demonio Sia (LTS)"
+
+- id: apps_daemonsubheader
+  translation: "Para desarrolladores"
+
+- id: apps_minerheader
+  translation: "Mineros"
+
+### miner ###
+- id: apps_download
+  translation: "Descargar"
+
+- id: apps_miner
+  translation: "Minero"
+
+- id: apps_miner1
+  translation: "El minero GPU oficial"
+
+- id: apps_altminer
+  translation: "Minero Alternativo"
+
+- id: apps_altminer1
+  translation: "Un minero GPU para Sia en Go"
+
+- id: apps_sourcecode
+  translation: "Código fuente en GitHub"
+
+### built on sia ###
+- id: apps_builtheader
+  translation: "Construidos en Sia"
+
+- id: apps_explorerh
+  translation: "Explorer"
+
+- id: apps_explorerp
+  translation: "Explorador de la cadena de bloques de Sia"
+
+- id: apps_luxor
+  translation: "Construyendo aplicaciones y servicios centrados en Sia"
+
+- id: apps_minebox
+  translation: "NAS de próxima generación basado en Sia"
+
+- id: apps_pixeldrain
+  translation: "Sitio de compartición de archivos basado en Sia"
+
+- id: apps_siadrive
+  translation: "Monte Sia como una unidad en su escritorio"
+
+- id: apps_siaberry
+  translation: "Sistema operativo para usar Sia en Raspberry Pi"
+
+- id: apps_siahub
+  translation: "Estadísticas de redes Sia y otras herramientas"
+
+- id: apps_siastats
+  translation: "Gráficos y métricas para la red Sia"
+
+- id: apps_obelisk
+  translation: "El primer minero de ASIC para Siacoin"
+
+### integrations ###
+- id: integrations_header
+  translation: "Integraciones (Beta)"
+
+- id: integrations_learn
+  translation: "Aprender más"
+
+- id: integrations_duplicati
+  translation: "Software de respaldo automatizado con interfaz de usuario amigable"
+
+- id: integrations_minio
+  translation: "Servidor de almacenamiento de objetos distribuidos compatible con S3"
+
+- id: integrations_nextcloud
+  translation: "Alternativa autohospedada a Dropbox"
+
+
+# URL: /faq.html
+### header ###
+
+- id: faq_header
+  translation: "Preguntas Frecuentes"
+
+- id: faq_subheader
+  translation: "COSAS QUE QUIERE SABER"
+
+### faqs ###
+
+- id: faq_sia1q
+  translation: "¿Qué es Sia?"
+- id: faq_sia1a
+  translation: "Sia es una plataforma de almacenamiento en la nube descentralizada que utiliza una cadena de bloques para facilitar los pagos. ¡En Sia puede alquilar almacenamiento, recibir pagos por siendo host de archivos, minar Siacoin, o contribuir al proyecto!"
+
+- id: faq_sia2q
+  translation: "¿Por qué Sia?"
+- id: faq_sia2a
+  translation: "Los proveedores existentes de almacenamiento en la nube están centralizados. Los costos son altos, los datos a menudo no están encriptados, y cada proveedor normalmente solo ejecuta varios centros de datos grandes. Sia, por el contrario, permite el almacenamiento en la nube privado, descentralizado y distribuido a un precio mucho más bajo."
+
+- id: faq_sia3q
+  translation: "¿Qué es Siacoin?"
+- id: faq_sia3a
+  translation: "Sia usa una criptomoneda, Siacoin, para permitir pagos descentralizados a través de contratos de archivos. Todos los pagos en la red suceden en Siacoin, que es un componente crítico de nuestros SLA criptográficos. Siacoin nos permite hacer cosas que no serían posibles con Bitcoin o los pagos tradicionales en línea."
+
+- id: faq_sia4q
+  translation: "¿Puedo contribuir, or construir sobre Sia?"
+- id: faq_sia4a
+  translation: "¡Sí! Nos encantaría eso. Todo el código de Sia es 100% de código abierto y se puede encontrar en nuestro <a href=\"https://github.com/NebulousLabs\">Github</a>."
+
+- id: faq_sia5q
+  translation: "¿Quién creó Sia?"
+- id: faq_sia5a
+  translation: "Sia fue creado por David Vorick y Luke Champine de Nebulous Inc, una empresa fundada por CR en Boston. Obtenga más información sobre el equipo y la empresa <a href=\"https://sia.tech/about\">aquí</a>."
+
+- id: faq_sia6q
+  translation: "¿Qué pasa si tengo más preguntas?"
+- id: faq_sia6a
+  translation: "¡Fantástico! Consulte nuestro <a href=\"https://forum.sia.tech\">Foro</a> y <a href=\"https://siawiki.tech\">Wiki</a>, y si aún tiene preguntas, nos complace responderlas en <a href=\"https://discord.gg/sia\">Discord</a>."
+
+
+# URL: /get-siacoin.html
+### header ###
+- id: getsiacoin_header
+  translation: "Casas de Cambio Preferidas"
+
+- id: getsiacoin_subheader
+  translation: "COMPRAR E INTERCAMBIAR SIACOIN"
+
+### exchanges ###
+
+- id: getsiacoin_poloniex
+  translation: "Poloniex es una casa de cambio de criptomonedas con sede en EE. UU. que ofrece la máxima seguridad y herramientas avanzadas de intercambio. Comience a intercambiar en minutos. Todo lo que necesita son unos simples pasos."
+
+- id: getsiacoin_yunbi
+  translation: "YUNBI es una casa de cambio orientada al futuro para los activos de cadena de bloques. Fundada en Beijing, 2013, y construida con el código publicado por Peatio Open Source Project, YUNBI se adhiere a los principios de integridad, transparencia, y ser código abierto, ofreciendo a los clientes una plataforma de intercambio segura y fácil."
+
+- id: getsiacoin_shapeshift
+  translation: "Shapeshift es una nueva e innovadora casa de cambio de criptomonedas de baja fricción que no requiere un largo proceso de suscripción. Simplemente configure su entrada en una moneda que tenga, configure la salida en Siacoin, coloque su dirección de Siacoin en el cuadro y haga clic en iniciar."
+
+- id: getsiacoin_bittrex
+  translation: "Basado y completamente regulado en los EE. UU., Bittrex es el lugar para los comerciantes que demandan una ejecución comercial extremadamente rápida, billeteras estables, y las mejores prácticas de seguridad de la industria."
+
+- id: getsiacoin_btn
+  translation: "Obtener Siacoin"
+
+
+# URL: /get-started.html
+### header ###
+- id: getstarted_header
+  translation: "Empezar"
+
+- id: getstarted_subheader
+  translation: "SU LUGAR EN EL ECOSISTEMA"
+
+### store ###
+- id: getstarted_storeiconh
+  translation: "Almacenar"
+
+- id: getstarted_storeiconp
+  translation: "Almacene sus archivos en la nube de Sia"
+
+- id: getstarted_storeh
+  translation: "Almacenando sus archivos"
+
+- id: getstarted_storestep1
+  translation: "Descargue <a href=\"../apps/#ui\">Sia-UI</a>"
+
+- id: getstarted_storestep2
+  translation: "Obtenga <a href=\"../get-siacoin\">Siacoin</a>"
+
+- id: getstarted_storestep3
+  translation: "Suba sus archivos utilizando Sia"
+
+- id: getstarted_storestep4
+  translation: "Siga la <a href=\"https://blog.sia.tech/getting-started-with-private-decentralized-cloud-storage-c9565dc8c854\">guía de almacenamiento</a>"
+
+### farm ###
+- id: getstarted_farmiconh
+  translation: "Host" # TODO: i18n: translate this
+
+- id: getstarted_farmiconp
+  translation: "Obtenga pago por su espacio de almacenamiento"
+
+- id: getstarted_farmh
+  translation: "Ganando Siacoin"
+
+- id: getstarted_farmstep1
+  translation: "Descargue <a href=\"../apps/#ui\">Sia-UI</a>"
+
+- id: getstarted_farmstep2
+  translation: "Escoga su precio de almacenamiento"
+
+- id: getstarted_farmstep3
+  translation: "Gane Siacoin de otros usuarios de Sia"
+
+- id: getstarted_farmstep4
+  translation: "Siga la <a href=\"https://blog.sia.tech/how-to-run-a-host-on-sia-2159ebc4725\">guía de host</a>"
+
+### mine ###
+- id: getstarted_mineiconh
+  translation: "Mine"
+
+- id: getstarted_mineiconp
+  translation: "Mine Siacoin y garantice la cadena de bloques"
+
+- id: getstarted_mineh
+  translation: "Minando Siacoin"
+
+- id: getstarted_minestep1
+  translation: "Descargue <a href=\"../apps/#miner\">Minero Sia</a>"
+
+- id: getstarted_minestep2
+  translation: "Ayudar a garantizar la red"
+
+- id: getstarted_minestep3
+  translation: "Reciba Siacoin"
+
+### develop ###
+- id: getstarted_developiconh
+  translation: "API"
+
+- id: getstarted_developiconp
+  translation: "Utilice Sia como el back-end de almacenamiento para sus aplicaciones"
+
+- id: getstarted_developh
+  translation: "Utilizando el API de Sia"
+
+- id: getstarted_developstep1
+  translation: "Descargue el <a href=\"../apps/#daemon\">Demonio de Sia</a>"
+
+- id: getstarted_developstep2
+  translation: "Obtenga <a href=\"../get-siacoin\">Siacoin</a>"
+
+- id: getstarted_developstep3
+  translation: "Siga la <a href=\"https://blog.sia.tech/api-quickstart-guide-f1d160c05235\">guía API</a>"
+
+- id: getstarted_developstep4
+  translation: "Explore la <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">documentación API</a>"
+
+- id: getstarted_developstep5
+  translation: "Utilice Sia como el back-end de almacenamiento"
