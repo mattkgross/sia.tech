@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sia</title>
+    <link>https://sia.tech/de/</link>
+    <description>Recent content on Sia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://sia.tech/de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://sia.tech/de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sia.tech/de/</guid>
+      <description>Ihre dezentrale private Cloud  Willkommen in einer neuen Ära von Cloudspeicher auf der Blockchain     Loslegen   Video schauen                Vollkommen privat   Sia zerlegt, verschlüsselt und verteilt Ihre Dateien über ein dezentrales Netzwerk. Da nur Sie die Schlüssel besitzen, gehören die Daten Ihnen alleine. Kein externes Unternehmen hat Zugriff oder Kontrolle über Ihre Dateien, anders als bei traditionellen Anbietern von Cloudspeicher.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -19,5 +19,7 @@ DefaultContentLanguage = "en"
     weight = 4
   [Languages.zh-hant]
     weight = 5
-	[Languages.ha]
-		weight = 6
+  [Languages.ha]
+    weight = 6
+  [Languages.es]
+    weight = 7
